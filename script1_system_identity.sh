@@ -9,8 +9,8 @@
 # ============================================================
 
 # --- Student Info Variables ---
-STUDENT_NAME="[Rishi Pandey]"          # Replace with your actual name
-REG_NUMBER="[24BAI10838]"      # Replace with your registration number
+STUDENT_NAME="[Lakshya Bansal]"          # Replace with your actual name
+REG_NUMBER="[24BAI10809]"      # Replace with your registration number
 SOFTWARE_CHOICE="Git"               # The open-source software chosen for audit
 
 # --- Gather System Information using command substitution ---
